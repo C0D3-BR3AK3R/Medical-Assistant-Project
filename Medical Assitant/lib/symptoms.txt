@@ -1,0 +1,75 @@
+Conjunctivitis,eye redness,discharge of mucus,discharge of water,owhf
+Abdominal aortic aneurysm, persistent back pain,persistent abdominal pain,pulsating feeling in your stomach,lsdkn
+Acute pancreatitis,nausea,diarrhoea,indigestion,high fever,jaundice,tenderness or swelling of the abdomen
+Addison's disease,fatigue,muscle weakness,low mood,loss of appetite and unintentional weight loss,increased thirst.
+Alcohol-related Liver Disease,jaundice,swelling in the legs, ankles and feet, due to a build-up of fluid
+Alzheimer's disease,dysphagia,difficulty changing position or moving around without assistance,considerable weight loss,gradual loss of speech
+Angioedema,a hot or painful sensation in the swollen areas,swelling of the inside of the throat,the windpipe and the tongue,swelling of the conjunctiva
+Anxiety,restlessness,a sense of dread,feeling constantly "on edge",difficulty concentrating,irritability
+Appendicitis,nausea,loss of appetite,diarrhoea,high fever,flushed face
+Arthritis,joint pain,tenderness and stiffness,inflammation in and around the joints,warm red skin over the affected joint,weakness and muscle wasting
+Asthma,wheezing,shortness of breath,a tight chest,coughing
+Asbestosis,shortness of breath this may only occur after physical activity at first,a persistent cough,wheezing,fatigue,chest pain,clubbed fingertips
+Brain Tumours,severe,persistent headaches,seizures,persistent nausea,vomiting and drowsiness,mental or behavioural changes,such as memory problems or changes in personality,progressive weakness or paralysis on one side of the body,vision problems,speech problems
+Bronchitis,sore throat,headache,runny nose,body ache,tiredness	
+Bone Cancer,Bone pain,high fever,unexplained weight loss,sweating,particularly at night
+Bladder Cancer,pelvic pain,bone pain,unintentional weight loss,swelling of the legs
+Chickenpox,feeling sick,high fever,aching,painful muscles,headache,generally feeling unwell,loss of appetite,spots on body
+Common Cold,sore throat,blocked or runny nose,sneezing,cough
+Constipation,stomach ache,cramps,feeling bloated,feeling sick,loss of appetite
+Diabetes,feeling very thirsty,urinating more frequently than usual,particularly at night,feeling very tired,weight loss and loss of muscle bulk,cuts or wounds that heal slowly,blurred vision
+Diarrhoea, stomach cramps,nausea and vomiting,headache,loss of appetite
+Dystonia, muscle spasms,having an abnormal, twisted posture,a foot, leg or arm turning inwards,body parts jerking rapidly
+	
+Eye cancer, shadows, flashes of light, or wiggly lines in your vision,blurred vision,a dark patch in your eye that's getting bigger,partial or total loss of vision,bulging of one eye,a lump on your eyelid or in your eye that's increasing in size,pain in or around your eye, although this is rare
+	
+Epilepsy, a general strange feeling that is hard to describe,a "rising" feeling in your tummy – sometimes likened to the sensation in your stomach when on a fairground ride,an intense feeling that events have happened before (déjà vu),experiencing an unusual smell or taste,a tingling sensation, or "pins and needles", in your arms and legs,a sudden intense feeling of fear or joy,stiffness or twitching in part of the body, such as an arm or hand
+	
+Flu, a sudden fever – a temperature of 38C (100.4F) or above,a dry, chesty cough,a headache,tiredness and weakness,chills,aching muscles,limb or joint pain,diarrhoea or abdominal (tummy) pain,nausea and vomiting,a sore throat,a runny or blocked nose,sneezing,loss of appetite,difficulty sleeping
+	
+Food poisoning, feeling sick (nausea),vomiting,diarrhoea, which may contain blood or mucus,stomach cramps and abdominal pain,a lack of energy and weakness,loss of appetite,a high temperature (fever),aching muscles,chills
+	
+Gum disease, bad breath (halitosis), an unpleasant taste in your mouth, loose teeth that can make eating difficult, gum abscesses (collections of pus that develop under your gums or teeth)
+	
+HIV, fever, sore throat, body rash, tiredness, joint pain, muscle pain, swollen glands (nodes)
+	
+anaemia, tiredness and lack of energy (lethargy),shortness of breath,noticeable heartbeats (heart palpitations),a pale complexion
+	
+Kidney stones, feeling restless and unable to lie still,nausea (feeling sick),needing to urinate more often than normal,pain when you urinate (dysuria),blood in your urine (haematuria) – this may be caused by the stone scratching the kidney or ureter
+	
+Lung cancer, a cough that doesn’t go away after two or three weeks,a long-standing cough that gets worse,persistent chest infections,coughing up blood,an ache or pain when breathing or coughing,persistent breathlessness,persistent tiredness or lack of energy,loss of appetite or unexplained weight loss
+	
+Labyrinthitis, feeling of pressure inside your ear(s), ringing or humming in your ear(s) (tinnitus), fluid or pus leaking out of your ear(s), ear pain, feeling sick (nausea) or being sick, a high temperature (fever) of 38C (100.4F) or above, changes in vision, such as blurred vision or double vision, mild headaches 
+	
+Malaria, fever, headache, sweats, chills, vomiting
+	
+Migraine, nausea, vomiting, increased sensitivity to light and sound
+	
+Pneumonia, cough, difficulty breathing, rapid heartbeat, fever
+	
+Psychosis, hallucinations, delusions, confused and disturbed thoughts, lack of insight and self-awareness
+	
+Schizophrenia, Hallucinations, Delusions, Confused thoughts, Changes in behaviour and thoughts
+	
+Tooth decay, toothache, tooth sensitivity, grey, brown or black spots appearing on your teeth, bad breath
+	
+Tuberculosis, lack of appetite and weight loss, fever, night sweats, extreme tiredness or fatigue
+	
+Yellow fever, fever, a headache, nausea or vomiting, muscle pain, including backache, loss of appetite
+	
+COVID-19	, aches and pains, sore throat, fever, dry cough
+	
+
+
+
+
+
+
+
+
+
+			
+
+		
+		
+ 

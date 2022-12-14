@@ -1,0 +1,11 @@
+nausea,acute pancreatitis,appendicitis,brain tumours,diarrhoea,flu,food poisioning
+diarrhoea,acute pancreatitis,appendicitis,flu,food poisioning,hepatatis A,hepatatis B
+back pain,abdominal aortic aneurysm
+fatigue,asbestosis,addison's disease,tuberculosis
+itchy skin,alcohol related liver disease,liver cancer
+fever,alcohol related liver disease,appendicitis,bone cancer,chickenpox,flu and food poisioning,hepatatis B
+loss of speech,alzheimer's disease,brain tumours
+joint pain,arthritis,flu,out,hepatatis A,HIV
+chest pain,lung cancer,asbestosis,dysphagia,flu
+
+			

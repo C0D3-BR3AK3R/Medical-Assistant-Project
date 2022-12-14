@@ -1,0 +1,23 @@
+nausea:Acute pancreatitis,Appendicitis,Brain tumours,Diarrhoea,Flu and food Poisioning.
+diarrhoea:Acute pancreatitis,Appendicitis,Flu and food Poisioning,Hepatatis A,Hepatatis B.
+back Pain:abdominal aortic aneurysm. 
+fatigue:Asbestosis,Addison's disease,Tuberculosis.
+itchy skin:Alcohol-related liver disease,Liver cancer.
+fever:Alcohol-related liver disease,Appendicitis,Bone cancer,Chickenpox,Flu and food Poisioning,Hepatatis B.
+loss of speech:Alzheimer's disease,Brain tumours.
+joint pain:Arthritis,flu,out,Hepatatis A,HIV.
+chest pain:Lung cancer,Asbestosis,Dysphagia,Flu.
+wheezing:Asthma,Bronchitis
+shortness of breath:Asthma,Bronchitis
+a tight chest:Asthma,Bronchitis,Pneumonia
+coughing:COVID,Asthma,Bronchitis,Pneumonia,Common Cold
+sore throat:
+headache:
+runny nose:Common Cold,COVID,
+body ache: 
+tiredness: 
+being sick: 
+loss of appetite: 
+diarrhoea: 
+high fever: 
+flushed face: 
